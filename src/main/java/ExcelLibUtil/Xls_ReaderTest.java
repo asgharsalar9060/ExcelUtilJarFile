@@ -1,7 +1,5 @@
 package ExcelLibUtil;
 
-import com.excel.lib.util.Xls_Reader;
-
 public class Xls_ReaderTest {
 
 	public static void main(String[] args) {
